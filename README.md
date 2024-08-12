@@ -49,20 +49,20 @@ The dataset features labeled text samples used for both training and evaluation 
 
 1. **Install Dependencies**
 
-2. **Preprocess Data
+2. **Preprocess Data**
 
 Execute `preprocess_data.py` to clean and prepare the dataset.
 
-3. **Train Models
+3. **Train Models**
 
 - Run `train_ml_models.py` for traditional machine learning models.
 - Run `train_dl_models.py` for deep learning models.
 
-4.  **Evaluate Models
+4.  **Evaluate Models**
 
 Use `evaluate_models.py` to assess the performance of the trained models.
 
-5.  **Interpret Results
+5.  **Interpret Results**
 
 Run `interpret_models.py` to generate LIME explanations and visualize feature importance.
 
