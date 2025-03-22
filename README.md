@@ -72,5 +72,5 @@ We welcome contributions to improve the models and methodology. Please fork the 
 ### Contact
 For questions or suggestions, please open an issue on the GitHub repository or contact us.
 
-Thank you for your interest in this project!
+Thank you for your interest in this project.
 
