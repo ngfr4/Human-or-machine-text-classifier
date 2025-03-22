@@ -67,10 +67,5 @@ Use `evaluate_models.py` to assess the performance of the trained models.
 
 Run `interpret_models.py` to generate LIME explanations and visualize feature importance.
 
-## Contributing
-We welcome contributions to improve the models and methodology. Please fork the repository and submit a pull request with your proposed changes.
-### Contact
-For questions or suggestions, please open an issue on the GitHub repository or contact us.
 
-Thank you for your interest in this project.
 
